@@ -1,7 +1,7 @@
 {
     "name": "bloggy-query",
     "description": "Creates fluent methods to query for blog posts and tags in bloggy, a small and lightweight markdown blog engine.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Marcell Spies <marcells@gmx.de>",
     "contributors": [
         {
@@ -10,7 +10,7 @@
         }
     ],
     "dependencies": {
-        "linq": "~3.0.4-beta"
+        "linq": "3.2.4"
     },
     "keywords": [
         "blog",
