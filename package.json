@@ -10,7 +10,7 @@
         }
     ],
     "dependencies": {
-        "linq": "~3.0.4-beta"
+        "linq": "3.2.4"
     },
     "keywords": [
         "blog",
